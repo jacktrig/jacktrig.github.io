@@ -1,8 +1,19 @@
 body {
-    background:greenyellow;
+    background:lightsteelblue;
     font-family:Arial, Helvetica, sans serif;
 }
 h1 {
-    color:darkgrey;
+    color:white;
     text-align:center;
+}
+.assignment {
+    display: flex;
+    padding: 10px;
+    background: lightgray;
+    margin: 10px;
+}
+.assignment img {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
 }
